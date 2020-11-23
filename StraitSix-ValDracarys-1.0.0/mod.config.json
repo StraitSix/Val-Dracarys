@@ -4,7 +4,7 @@
     "description": "Release",
     "license": "MIT",
     "version": "2.0.0",
-    "checkUpdateUrl": "",
+    "checkUpdateUrl": "https://raw.githubusercontent.com/StraitSix/Val-Dracarys/main/StraitSix-ValDracarys-1.0.0/updater.json",
     "autoUpdate": true,
     "src": {
         "src/modloader.js": "TamperModLoad"

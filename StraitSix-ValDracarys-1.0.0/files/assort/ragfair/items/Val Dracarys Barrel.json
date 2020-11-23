@@ -1,0 +1,10 @@
+{
+	"_id": "Val Dracarys Barrel",
+	"_tpl": "Val Dracarys Barrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

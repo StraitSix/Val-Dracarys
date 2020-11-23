@@ -1,0 +1,104 @@
+{
+	"_id": "Val Dracarys Barrel",
+	"_name": "Val Dracarys Barrel",
+	"_parent": "555ef6e44bdc2de9068b457e",
+	"_type": "Item",
+	"_props": {
+		"Name": "Val Dracarys Barrel",
+		"ShortName": "Val Dracarys Barrel",
+		"Description": "Val Dracarys Barrel",
+		"Weight": 0.35,
+		"BackgroundColor": "blue",
+		"Width": 3,
+		"Height": 1,
+		"StackMaxSize": 1,
+		"Rarity": "Rare",
+		"SpawnChance": 2,
+		"CreditsPrice": 12380,
+		"ItemSound": "mod",
+		"Prefab": {
+			"path": "assets/content/items/mods/barrels/barrel_mpx_355mm_9x19.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": false,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 20,
+		"ExamineExperience": 6,
+		"HideEntrails": false,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 3,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": true,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [],
+		"Slots": [
+			{
+				"_name": "mod_muzzle",
+				"_id": "5c5db5c62e22160012542257",
+				"_parent": "5c5db5c62e22160012542255",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"550aa4dd4bdc2dc9348b4569",
+								"5d270b3c8abbc3105335cfb8"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"Durability": 100,
+		"Accuracy": 0,
+		"Recoil": -7,
+		"Loudness": 0,
+		"EffectiveDistance": 0,
+		"Ergonomics": -9,
+		"Velocity": 4,
+		"RaidModdable": false,
+		"ToolModdable": true,
+		"BlocksFolding": false,
+		"BlocksCollapsible": false,
+		"IsAnimated": false,
+		"HasShoulderContact": false,
+		"SightingRange": 0,
+		"CenterOfImpact": 0.04,
+		"ShotgunDispersion": 1,
+		"IsSilencer": false
+	},
+	"_proto": "55d35ee94bdc2d61338b4568"
+}

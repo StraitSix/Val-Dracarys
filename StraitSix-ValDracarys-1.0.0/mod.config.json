@@ -1,0 +1,29 @@
+{
+    "name": "ValDracarys",
+    "author": "StraitSix",
+    "description": "Release",
+    "license": "MIT",
+    "version": "2.0.0",
+    "checkUpdateUrl": "",
+    "autoUpdate": true,
+    "src": {
+        "src/modloader.js": "TamperModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "files": [
+        "Val Dracarys.json",
+        "20g Flechette HE.json",
+        "Val Dracarys Handguard.json",
+        "Val Dracarys StockExt.json",
+        "Val Dracarys StdBarrel.json",
+        "Val Dracarys Chassis.json",
+        "Val Dracarys Internals.json",
+        "Val Dracarys Mount.json",
+        "Val Dracarys Barrel.json"
+    ]
+}

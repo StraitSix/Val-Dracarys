@@ -1,0 +1,11 @@
+{
+    "name": "ValDracarys",
+    "author": "StraitSix",
+    "version": "2.0.0",
+    "forceDowngrade": false,
+    "downloadUpdateUrl": "",
+    "excludeFromUpdate": 
+        [
+
+        ]
+}

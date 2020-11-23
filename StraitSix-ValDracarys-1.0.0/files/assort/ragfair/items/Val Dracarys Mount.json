@@ -1,0 +1,10 @@
+{
+	"_id": "Val Dracarys Mount",
+	"_tpl": "Val Dracarys Mount",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

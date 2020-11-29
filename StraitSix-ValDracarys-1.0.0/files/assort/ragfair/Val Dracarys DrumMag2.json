@@ -1,0 +1,10 @@
+{
+	"_id": "VAL Dracarys DrumMag2",
+	"_tpl": "VAL Dracarys DrumMag2",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

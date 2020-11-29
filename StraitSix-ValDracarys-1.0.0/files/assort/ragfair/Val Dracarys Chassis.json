@@ -1,0 +1,10 @@
+{
+	"_id": "Val Dracarys Chassis",
+	"_tpl": "Val Dracarys Chassis",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

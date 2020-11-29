@@ -15,15 +15,15 @@
         "files/locales/en",
         "files/templates"
     ],
-    "files": [
-        "Val Dracarys.json",
-        "20g Flechette HE.json",
-        "Val Dracarys Handguard.json",
-        "Val Dracarys StockExt.json",
-        "Val Dracarys StdBarrel.json",
-        "Val Dracarys Chassis.json",
-        "Val Dracarys Internals.json",
-        "Val Dracarys Mount.json",
-        "Val Dracarys Barrel.json"
+    "filenames": [
+        "Val Dracarys",
+        "20g Flechette HE",
+        "Val Dracarys Handguard",
+        "Val Dracarys StockExt",
+        "Val Dracarys StdBarrel",
+        "Val Dracarys Chassis",
+        "Val Dracarys Internals",
+        "Val Dracarys Mount",
+        "Val Dracarys Barrel"
     ]
 }
